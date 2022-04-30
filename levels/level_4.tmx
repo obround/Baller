@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" tiledversion="1.2.4" orientation="orthogonal" renderorder="right-down" width="31" height="46" tilewidth="128" tileheight="128" infinite="0" backgroundcolor="#3a3a3a" nextlayerid="10" nextobjectid="1">
+ <tileset firstgid="1" source="../standard_tileset.tsx"/>
+ <layer id="9" name="Spikes" width="31" height="46">
+  <data encoding="base64" compression="zlib">
+   eJztxrEJADAIAEHnsHP/JdNYSVpDijt4+AgAXsluPsCW6uYDAP+rSwBTjrYcW3QB+g==
+  </data>
+ </layer>
+ <layer id="7" name="Platforms" width="31" height="46">
+  <data encoding="base64" compression="zlib">
+   eJzdWFsOxCAI9Ah6/8v21xBA3konITVb0+El4M4xxrogc5MdExEO2H6NcN+LhsSuDF5Mh9e4NVjM74t4L+FexFOrB9QnK584SHLtpL90j4U7C5Ab1p1K7kpI4737ZV9nc3uA9Y9o7u55roUn5lV2Y2fWwh119l+Kt9aeJVhLubXQzF/R3BJQPjj1kuh+Qs3Ht3Ptj9zcjHjizpgjrHUNW1N7Irmj0Ll/e2pwJ59bat3pHtbB7he4oR8t51xT17hYW/r4LZ936KEZfcRrt3euqb4bSGam7Hv/YLgrwM2pEFn/434kLBWu
+  </data>
+ </layer>
+</map>
